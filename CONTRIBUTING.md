@@ -7,7 +7,7 @@ Thank you for considering contributing to the Animated Simple Calculator project
 1. Fork the repository.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/harinandsindukumar/simple-calculator.git
    ```
 3. Navigate to your local repository:
    ```bash
